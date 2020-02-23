@@ -1,6 +1,6 @@
 # expressBoilerplate
 
-Express boilerplate
+Express boilerplate with additional endpoints for movies and movie categories, integrated with VueJS.
 
 ## Install It
 ```
@@ -12,6 +12,20 @@ npm install
 
 ```
 npm run dev
+```
+
+## Install Front
+
+```
+cd front
+npm install
+```
+
+## Run front
+#### Run:
+
+```
+npm run serve
 ```
 
 #### Run in *production* mode:
@@ -31,4 +45,18 @@ cf push expressBoilerplate
 ### Try It
 * Point you're browser to [http://localhost:3000](http://localhost:3000)
 * Invoke the example REST endpoint `curl http://localhost:3000/api/v1/examples`
-   
+
+## APIs
+#### Categories:
+* Get all categories
+* Get category
+* Post category
+* Put category
+* Delete Category
+
+#### Movies:
+* Get all movies
+* Get movie
+* Post movie
+* Put movie
+* Delete movie

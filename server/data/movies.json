@@ -1,0 +1,152 @@
+[
+   {
+      "id":1,
+      "name":"Evil Dead",
+      "description":"Five friends decide to spend a weekend in a remote cabin located deep in the forest. When they accidentally summon a dormant demon, they strive to survive its evil ploys.",
+      "year":2013,
+      "director":"Fede Álvarez",
+      "actors":[
+         "Jane Levy",
+         "Jessica Lucas",
+         "Shiloh Fernandez",
+         "Lou Taylor Pucci"
+      ],
+      "poster":"https://i.pinimg.com/originals/8f/4f/5f/8f4f5fdc2fcbb2db28b861401fec786c.jpg",
+      "category_id":1
+   },
+   {
+      "id":2,
+      "name":"Friday the 13th",
+      "description":"A group of counsellors are brutally killed one by one at a summer camp held at the Camp Crystal Lake, when the entrepreneur Steve Christie reopens the site, which was shut for years.",
+      "year":1980,
+      "director":"Sean S. Cunningham",
+      "actors":[
+         "Betsy Palmer",
+         "Adrienne King",
+         "Kevin Bacon",
+         "Ari Lehman"
+      ],
+      "poster":"https://www.iceposter.com/thumbs/MOV_5f507d9e_b.jpg",
+      "category_id":1
+   },
+   {
+      "id":3,
+      "name":"The Exorsist",
+      "description":"An actress notices dangerous changes in the behavior and physical make-up of her 12-year-old daughter. Meanwhile, a young priest begins to doubt his faith while dealing with his mother's sickness.",
+      "year":1973,
+      "director":"William Friedkin",
+      "actors":[
+         "Linda Blair",
+         "Ellen Burstyn",
+         "Max von Sydow",
+         "Jason Miller"
+      ],
+      "poster":"https://images-na.ssl-images-amazon.com/images/I/41YByZBeGmL._AC_.jpg",
+      "category_id":1
+   },
+   {
+      "id":4,
+      "name":"Insidious",
+      "description":"Josh and Renai move to a new house, seeking a fresh start. However, when their son, Dalton, mysteriously falls into a coma, paranormal events start occurring in the house.",
+      "year":2010,
+      "director":"James Wan",
+      "actors":[
+         "Lin Shaye",
+         "Leigh Whannell",
+         "Patrick Wilson",
+         "Rose Byrne"
+      ],
+      "poster":"http://es.web.img3.acsta.net/r_1920_1080/pictures/14/05/07/09/01/306626.jpg",
+      "category_id":1
+   },
+   {
+      "id":5,
+      "name":"Pulp Fiction",
+      "description":"In the realm of underworld, a series of incidents intertwines the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two small-time criminals.",
+      "year":"1994",
+      "director":"Quentin Tarantino",
+      "actors":[
+         "John Travolta",
+         "Samuel L. Jackson",
+         "Uma Thurman",
+         "Bruce Willis"
+      ],
+      "poster":"https://images-na.ssl-images-amazon.com/images/I/71c05lTE03L._AC_SL1024_.jpg",
+      "category_id":2
+   },
+   {
+      "id":6,
+      "name":"Mad Max: Fury Road",
+      "description":"In the realm of underworld, a series of incidents intertwines the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two small-time criminals.",
+      "year":"2015",
+      "director":"George Miller",
+      "actors":[
+         "Tom Hardy",
+         "Charlize Theron",
+         "Nicholas Hoult",
+         "Rosie Huntington-Whiteley"
+      ],
+      "poster":"https://cdn.shopify.com/s/files/1/1416/8662/products/mad_max_fury_road_2015_advance_original_film_artB_69310cd2-a499-45fc-a12d-df89480c4c99_2000x.jpg?v=1573593327",
+      "category_id":2
+   },
+   {
+      "id":7,
+      "name":"John Wick",
+      "description":"John Wick, a retired hitman, is forced to return to his old ways after a group of Russian gangsters steal his car and kill a puppy gifted to him by his late wife.",
+      "year":"2014",
+      "director":"Chad Stahelski",
+      "actors":[
+         "Keanu Reeves",
+         "Ian McShane",
+         "Adrianne Palicki",
+         "Willem Dafoe"
+      ],
+      "poster":"https://image.ceneostatic.pl/data/products/50372971/i-john-wick-booklet-dvd.jpg",
+      "category_id":2
+   },
+   {
+      "id":8,
+      "name":"Blade Runner 2049",
+      "description":"K, an officer with the Los Angeles Police Department, unearths a secret that could cause chaos. He goes in search of a former blade runner who has been missing for three decades.",
+      "year":"2017",
+      "director":"Denis Villeneuve",
+      "actors":[
+         "Ryan Gosling",
+         "Harrison Ford",
+         "Ana de Armas",
+         "Jared Leto"
+      ],
+      "poster":"https://i.ebayimg.com/images/g/lYgAAOSwIbtcUxR2/s-l1600.jpg",
+      "category_id":3
+   },
+   {
+      "id":9,
+      "name":"Inception",
+      "description":"Cobb steals information from his targets by entering their dreams. He is wanted for his alleged role in his wife's murder and his only chance at redemption is to perform the impossible, an inception.",
+      "year":"2010",
+      "director":"Christopher Nolan",
+      "actors":[
+         "Leonardo DiCaprio",
+         "Cillian Murphy",
+         "Joseph Gordon-Levitt",
+         "Ellen Page"
+      ],
+      "poster":"https://images-na.ssl-images-amazon.com/images/I/7106uLYY2LL._AC_SL1111_.jpg",
+      "category_id":3
+   },
+   {
+      "id":10,
+      "name":"Spider-Man: Into the Spider-Verse",
+      "description":"After gaining superpowers from a spider bite, Miles Morales protects the city as Spider-Man. Soon, he meets alternate versions of himself and gets embroiled in an epic battle to save the multiverse.",
+      "year":"2018",
+      "director":"Peter Ramsey",
+      "actors":[
+         "Shameik Moore",
+         "Jake Johnson",
+         "Hailee Steinfeld",
+         "Nicolas Cage"
+      ],
+      "poster":"https://images-na.ssl-images-amazon.com/images/I/91Tr%2BbhnMUL._AC_SL1500_.jpg",
+      "category_id":4
+   }
+]

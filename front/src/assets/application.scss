@@ -1,0 +1,176 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+$grey: #475D63;
+$light-grey: #E0E2DB;
+$orange: #fC5F17;
+$dark-blue: #172A3A;
+$light-blue: #004346;
+$white: #F7F8FA;
+$box-shadow: 1px 5px 4px 0px rgba(0,0,0,0.66);
+
+body {
+  background-image: linear-gradient(to bottom right, $dark-blue, $light-blue);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  padding-bottom: 30px;
+}
+
+.btn {
+  margin: 20px 0;
+  a {
+    color: $white;
+  }
+}
+
+#categoriesNew, #moviesNew {
+  color: $orange;
+}
+
+.nav-background {
+  width: 100%;
+  background-color: $grey;
+  box-shadow: $box-shadow;
+  margin-bottom: 20px;
+
+}
+
+.navbar a{
+  color: $light-grey;
+  font-size: 22px;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 220px 0;
+
+  h1 {
+    margin: 0;
+    color: $white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    font-size: 36px;
+    font-weight: bold;
+  }
+
+  p {
+    font-size: 26px;
+    color: $white;
+    opacity: .5;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  }
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .control {
+    margin: 10px 0;
+  }
+}
+
+.poster {
+  width: 100%;
+  height: auto;
+}
+
+.thumbnail {
+  width: 70%;
+  height: 80%;
+}
+
+.movie-list {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  .movie-item {
+    width: 30%;
+    list-style: none;
+    margin: 30px 0;
+    a {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+}
+
+#movieComponent h2{
+  color: $orange;
+  font-size: 40px;
+  li {
+    list-style: none;
+  }
+}
+
+#categoryComponent a{
+  color: $orange;
+}
+
+.list-group-item {
+  box-shadow: $box-shadow;
+
+}
+
+.card-movie {
+  height: 180px;
+  background: $white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  width: 40%;
+
+  img {
+    height: 100%;
+    width: 140px;
+    object-fit: cover;
+  }
+
+  h2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.4;
+    opacity: .7;
+    margin-bottom: 0;
+    margin-top: 8px;
+  }
+
+  .card-movie-infos {
+    padding: 16px;
+
+    a {
+      color: $orange;
+    }
+  }
+}
+
+#categoriesShow{
+  h2{
+    color: $orange;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  }
+  p{
+    color: $white;
+    font-size: 20px;
+  }
+  .list-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 16px;
+    a {
+      color: $orange;
+    }
+    p {
+      color: $grey;
+      font-size: 16px;
+    }
+  }
+}

@@ -1,0 +1,26 @@
+[
+   {
+      "id":1,
+      "name":"Terror",
+      "description":"A horror film is a film that seeks to elicit fear for entertainment purposes. Initially inspired by literature from authors like Edgar Allan Poe, Bram Stoker, and Mary Shelley, horror has existed as a film genre for more than a century. The macabre and the supernatural are frequent themes. Horror may also overlap with the fantasy, supernatural fiction, and thriller genres. Horror films often aim to evoke viewers' nightmares, fears, revulsions and terror of the unknown. Plots within the horror genre often involve the intrusion of an evil force, event, or personage into the everyday world. Prevalent elements include ghosts, extraterrestrials, vampires, werewolves, demons, Satanism, evil clowns, gore, torture, vicious animals, evil witches, monsters, giant monsters, zombies, cannibalism, psychopaths, natural, ecological or man-made disasters, and serial killers. Some sub-genres of horror film include low-budget horror, action horror, comedy horror, body horror, disaster horror, found footage, holiday horror, horror drama, psychological horror, science fiction horror, slasher, supernatural horror, gothic horror, natural horror, zombie horror, and teen horror.",
+      "movies":[]
+   },
+   {
+      "id":2,
+      "name":"Action",
+      "description":"Action film is a film genre in which the protagonist or protagonists are thrust into a series of events that typically include violence, extended fighting, physical feats, and frantic chases. Action films tend to feature a resourceful hero struggling against incredible odds, which include life-threatening situations, a villain, or a pursuit which usually concludes in victory for the hero (though a small number of films in this genre have ended in the victory for the villain instead). Advancements in CGI have made it cheaper and easier to create action sequences and other visual effects that required the efforts of professional stunt crews in the past. However, reactions to action films containing significant amounts of CGI have been mixed, as films that use computer animations to create unrealistic, highly unbelievable events are often met with criticism. While action has long been a recurring component in films, the 'action film' genre began to develop in the 1970s along with the increase of stunts and special effects. Common action scenes in films are generally, but not limited to, explosions, car chases, fistfights, and shootouts. This genre is closely associated with the thriller and adventure genres, and they may also contain elements of drama and spy fiction.",
+      "movies":[]
+   },
+   {
+      "id":3,
+      "name":"Science fiction",
+      "description":"Science fiction (sometimes called sci-fi or just SF) is a genre of speculative fiction that typically deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life. It has been called the 'literature of ideas', and often explores the potential consequences of scientific, social, and technological innovations. Science fiction, whose roots go back to ancient times, is related to fantasy, horror, and superhero fiction, and contains many subgenres. However its exact definition has long been disputed among authors, critics, and scholars. Science fiction literature, film, television, and other media have become popular and influential over much of the world. Besides providing entertainment, it can also criticize present-day society, and is often said to inspire a 'sense of wonder'.",
+      "movies":[]
+   },
+   {
+      "id":4,
+      "name":"Animation",
+      "description":"Animation is a method in which pictures are manipulated to appear as moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film. Today, most animations are made with computer-generated imagery (CGI). Computer animation can be very detailed 3D animation, while 2D computer animation can be used for stylistic reasons, low bandwidth or faster real-time renderings. Other common animation methods apply a stop motion technique to two and three-dimensional objects like paper cutouts, puppets or clay figures.",
+      "movies":[]
+   }
+]

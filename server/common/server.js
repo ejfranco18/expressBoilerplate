@@ -9,6 +9,7 @@ import l from './logger';
 
 const app = new express();
 
+
 export default class ExpressServer {
   constructor() {
     const root = path.normalize(__dirname + '/../..');

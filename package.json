@@ -13,6 +13,8 @@
     "cookie-parser": "^1.4.3",
     "dotenv": "^2.0.0",
     "express": "^4.15.3",
+    "mongodb": "^3.5.3",
+    "mongoose": "^5.9.2",
     "pino": "^4.6.0",
     "source-map-support": "^0.4.12",
     "swagger-express-middleware": "^1.0.0-alpha.12"
@@ -21,7 +23,8 @@
     "babel-preset-es2017": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "backpack-core": "^0.2.1",
+    "nodemon": "^2.0.2",
     "shelljs": "^0.7.6"
   },
-  "author": "Carmine DiMascio <cdimascio@gmail.com> (https://github.com/cdimascio)"
+  "author": "Javier Franco"
 }
